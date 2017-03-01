@@ -1,108 +1,107 @@
-2017-03-01 11:30:37,314 INFO  [Log] **************************************************************************************** 
-2017-03-01 11:30:37,316 INFO  [Log] **************************************************************************************** 
-2017-03-01 11:30:37,316 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 [Module]MySettings       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-03-01 11:30:37,316 INFO  [Log] **************************************************************************************** 
-2017-03-01 11:30:37,316 INFO  [Log] **************************************************************************************** 
-2017-03-01 11:30:50,833 INFO  [Log] Opening Browser 
-2017-03-01 11:31:00,834 INFO  [Log] Entering the text in txtbx_UserName 
-2017-03-01 11:31:03,205 INFO  [Log] Entering the text in txtbx_Password 
-2017-03-01 11:31:03,959 INFO  [Log] Clicking on Webelement btn_LogIn 
-2017-03-01 11:31:07,857 INFO  [Log] Navigating to URL 
-2017-03-01 11:32:44,501 INFO  [Log] Pressing ESC 
-2017-03-01 11:32:44,672 INFO  [Log] Clicking on Webelement lnk_MySetting 
-2017-03-01 11:32:45,329 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:32:55,434 INFO  [Log] Clicking on Webelement btn_EditNickname 
-2017-03-01 11:32:55,802 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:33:05,893 INFO  [Log] Entering the text in txtbx_Nickname 
-2017-03-01 11:33:06,228 INFO  [Log] Clicking on Webelement btn_Save 
-2017-03-01 11:33:06,607 INFO  [Log] Checking if lbl_ErrNickname is visible 
-2017-03-01 11:33:06,704 INFO  [Log] lbl_ErrNickname is Visible 
-2017-03-01 11:33:06,792 INFO  [Log] Entering the text in txtbx_Nickname 
-2017-03-01 11:33:07,071 INFO  [Log] Clicking on Webelement btn_Save 
-2017-03-01 11:33:07,378 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:33:17,517 INFO  [Log] Checking if yomojo is displayed in lbl_Nickname 
-2017-03-01 11:33:17,607 INFO  [Log] yomojo is displayed in lbl_Nickname 
-2017-03-01 11:33:17,676 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:33:27,759 INFO  [Log] Clicking on Webelement btn_EditRPin 
-2017-03-01 11:33:28,100 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:33:38,172 INFO  [Log] Entering the text in txtbx_RPin 
-2017-03-01 11:33:38,611 INFO  [Log] Clicking on Webelement btn_Save 
-2017-03-01 11:33:38,971 INFO  [Log] Checking if lbl_ErrRPin is visible 
-2017-03-01 11:33:39,090 INFO  [Log] lbl_ErrRPin is Visible 
-2017-03-01 11:33:39,175 INFO  [Log] Entering the text in txtbx_RPin 
-2017-03-01 11:33:39,462 INFO  [Log] Clicking on Webelement btn_Save 
-2017-03-01 11:33:39,798 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:33:49,874 INFO  [Log] Checking if 1234 is displayed in lbl_RPin 
-2017-03-01 11:33:49,958 INFO  [Log] 1234 is displayed in lbl_RPin 
-2017-03-01 11:33:50,025 INFO  [Log] Checking if chkbx_CallerID is visible 
-2017-03-01 11:33:50,103 INFO  [Log] chkbx_CallerID is Visible 
-2017-03-01 11:33:50,174 INFO  [Log] Checking if chkbx_CallerID is enabled 
-2017-03-01 11:33:50,217 INFO  [Log] chkbx_CallerID is Enabled 
-2017-03-01 11:33:50,284 INFO  [Log] Checking if chkbx_CallWait is visible 
-2017-03-01 11:33:50,493 INFO  [Log] chkbx_CallWait is Visible 
-2017-03-01 11:33:50,566 INFO  [Log] Checking if chkbx_CallWait is enabled 
-2017-03-01 11:33:50,608 INFO  [Log] chkbx_CallWait is Enabled 
-2017-03-01 11:33:50,674 INFO  [Log] Checking if chkbx_Voicemail is visible 
-2017-03-01 11:33:50,752 INFO  [Log] chkbx_Voicemail is Visible 
-2017-03-01 11:33:50,819 INFO  [Log] Checking if chkbx_Voicemail is enabled 
-2017-03-01 11:33:50,862 INFO  [Log] chkbx_Voicemail is Enabled 
-2017-03-01 11:33:50,985 INFO  [Log] Checking if chkbx_UsageAlert is visible 
-2017-03-01 11:33:51,062 INFO  [Log] chkbx_UsageAlert is Visible 
-2017-03-01 11:33:51,123 INFO  [Log] Checking if chkbx_UsageAlert is enabled 
-2017-03-01 11:33:51,173 INFO  [Log] chkbx_UsageAlert is Enabled 
-2017-03-01 11:33:51,234 INFO  [Log] Checking if chkbx_IntlRoam is visible 
-2017-03-01 11:33:51,310 INFO  [Log] chkbx_IntlRoam is Visible 
-2017-03-01 11:33:51,378 INFO  [Log] Checking if chkbx_IntlRoam is enabled 
-2017-03-01 11:33:51,419 INFO  [Log] chkbx_IntlRoam is Enabled 
-2017-03-01 11:33:51,485 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:34:01,564 INFO  [Log] Clicking on Webelement btn_EditCallFwd 
-2017-03-01 11:34:01,888 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:34:11,971 INFO  [Log] Pressing ESC 
-2017-03-01 11:34:12,138 INFO  [Log] Clicking on Webelement rdo_AllowCallFwd 
-2017-03-01 11:34:12,516 INFO  [Log] Checking if txtbx_FwdCall is visible 
-2017-03-01 11:34:12,592 INFO  [Log] txtbx_FwdCall is Visible 
-2017-03-01 11:34:12,659 INFO  [Log] Entering the text in txtbx_FwdCall 
-2017-03-01 11:34:12,998 INFO  [Log] Clicking on Webelement btn_SaveFwdCall 
-2017-03-01 11:34:13,409 INFO  [Log] Checking if lbl_ErrFwdCall is visible 
-2017-03-01 11:34:19,518 INFO  [Log] lbl_ErrFwdCall is Visible 
-2017-03-01 11:34:19,595 INFO  [Log] Entering the text in txtbx_FwdCall 
-2017-03-01 11:34:20,042 INFO  [Log] Clicking on Webelement btn_SaveFwdCall 
-2017-03-01 11:34:20,509 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:34:30,579 INFO  [Log] Pressing ESC 
-2017-03-01 11:34:30,673 INFO  [Log] Checking if 0412345678 is displayed in lbl_FwdCall 
-2017-03-01 11:34:30,869 INFO  [Log] 0412345678 is displayed in lbl_FwdCall 
-2017-03-01 11:34:30,945 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:34:41,017 INFO  [Log] Clicking on Webelement btn_EditSMSLimit 
-2017-03-01 11:34:41,328 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:34:51,402 INFO  [Log] Checking if cbbx_SMSLimit is visible 
-2017-03-01 11:34:51,477 INFO  [Log] cbbx_SMSLimit is Visible 
-2017-03-01 11:34:51,541 INFO  [Log] Selecting 70 on Webelement cbbx_SMSLimit 
-2017-03-01 11:34:51,713 INFO  [Log] Clicking on Webelement btn_SaveSMSLimit 
-2017-03-01 11:34:52,037 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:35:02,110 INFO  [Log] Checking if 70 is displayed in lbl_SMSLimit 
-2017-03-01 11:35:02,194 INFO  [Log] 70 is displayed in lbl_SMSLimit 
-2017-03-01 11:35:02,258 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:35:12,337 INFO  [Log] Clicking on Webelement btn_EditAllowAuto 
-2017-03-01 11:35:12,638 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:35:22,713 INFO  [Log] Clicking on Webelement rdo_AllowAuto 
-2017-03-01 11:35:22,965 INFO  [Log] Checking if cbbx_BalanceDrop is visible 
-2017-03-01 11:35:23,041 INFO  [Log] cbbx_BalanceDrop is Visible 
-2017-03-01 11:35:23,104 INFO  [Log] Checking if cbbx_Recharge is visible 
-2017-03-01 11:35:23,181 INFO  [Log] cbbx_Recharge is Visible 
-2017-03-01 11:35:23,244 INFO  [Log] Selecting 10 on Webelement cbbx_BalanceDrop 
-2017-03-01 11:35:23,411 INFO  [Log] Selecting 20 on Webelement cbbx_Recharge 
-2017-03-01 11:35:23,579 INFO  [Log] Clicking on Webelement btn_SaveAllowAuto 
-2017-03-01 11:35:23,870 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:35:33,997 INFO  [Log] Checking if 10 is displayed in lbl_AllowAuto 
-2017-03-01 11:35:34,092 INFO  [Log] 10 is displayed in lbl_AllowAuto 
-2017-03-01 11:35:34,163 INFO  [Log] Checking if 20 is displayed in lbl_AllowAuto 
-2017-03-01 11:35:34,199 INFO  [Log] 20 is displayed in lbl_AllowAuto 
-2017-03-01 11:35:34,268 INFO  [Log] Wait for 10 seconds 
-2017-03-01 11:35:44,345 INFO  [Log] Clicking on Webelement lnk_Logout 
-2017-03-01 11:35:49,310 INFO  [Log] Closing the browser 
-2017-03-01 11:35:52,291 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-03-01 11:35:52,291 INFO  [Log] X 
-2017-03-01 11:35:52,291 INFO  [Log] X 
-2017-03-01 11:35:52,291 INFO  [Log] X 
-2017-03-01 11:35:52,291 INFO  [Log] X 
-
+2017-03-01 13:21:47,164 INFO  [Log] **************************************************************************************** 
+2017-03-01 13:21:47,165 INFO  [Log] **************************************************************************************** 
+2017-03-01 13:21:47,166 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 [Module]MySettings       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-01 13:21:47,166 INFO  [Log] **************************************************************************************** 
+2017-03-01 13:21:47,166 INFO  [Log] **************************************************************************************** 
+2017-03-01 13:21:52,053 INFO  [Log] Opening Browser 
+2017-03-01 13:22:02,101 INFO  [Log] Entering the text in txtbx_UserName 
+2017-03-01 13:22:02,707 INFO  [Log] Entering the text in txtbx_Password 
+2017-03-01 13:22:03,196 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-03-01 13:22:08,061 INFO  [Log] Navigating to URL 
+2017-03-01 13:22:30,668 INFO  [Log] Pressing ESC 
+2017-03-01 13:22:30,823 INFO  [Log] Clicking on Webelement lnk_MySetting 
+2017-03-01 13:22:31,470 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:22:41,561 INFO  [Log] Clicking on Webelement btn_EditNickname 
+2017-03-01 13:22:41,912 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:22:52,020 INFO  [Log] Entering the text in txtbx_Nickname 
+2017-03-01 13:22:52,481 INFO  [Log] Clicking on Webelement btn_Save 
+2017-03-01 13:22:52,834 INFO  [Log] Checking if lbl_ErrNickname is visible 
+2017-03-01 13:22:52,939 INFO  [Log] lbl_ErrNickname is Visible 
+2017-03-01 13:22:53,032 INFO  [Log] Entering the text in txtbx_Nickname 
+2017-03-01 13:22:53,282 INFO  [Log] Clicking on Webelement btn_Save 
+2017-03-01 13:22:53,606 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:23:03,694 INFO  [Log] Checking if yomojo is displayed in lbl_Nickname 
+2017-03-01 13:23:03,776 INFO  [Log] yomojo is displayed in lbl_Nickname 
+2017-03-01 13:23:03,890 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:23:13,979 INFO  [Log] Clicking on Webelement btn_EditRPin 
+2017-03-01 13:23:14,305 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:23:24,397 INFO  [Log] Entering the text in txtbx_RPin 
+2017-03-01 13:23:24,706 INFO  [Log] Clicking on Webelement btn_Save 
+2017-03-01 13:23:25,098 INFO  [Log] Checking if lbl_ErrRPin is visible 
+2017-03-01 13:23:25,250 INFO  [Log] lbl_ErrRPin is Visible 
+2017-03-01 13:23:25,354 INFO  [Log] Entering the text in txtbx_RPin 
+2017-03-01 13:23:25,739 INFO  [Log] Clicking on Webelement btn_Save 
+2017-03-01 13:23:26,014 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:23:36,085 INFO  [Log] Checking if 1234 is displayed in lbl_RPin 
+2017-03-01 13:23:38,137 INFO  [Log] 1234 is displayed in lbl_RPin 
+2017-03-01 13:23:38,242 INFO  [Log] Checking if chkbx_CallerID is visible 
+2017-03-01 13:23:38,325 INFO  [Log] chkbx_CallerID is Visible 
+2017-03-01 13:23:38,392 INFO  [Log] Checking if chkbx_CallerID is enabled 
+2017-03-01 13:23:38,436 INFO  [Log] chkbx_CallerID is Enabled 
+2017-03-01 13:23:38,500 INFO  [Log] Checking if chkbx_CallWait is visible 
+2017-03-01 13:23:38,583 INFO  [Log] chkbx_CallWait is Visible 
+2017-03-01 13:23:38,649 INFO  [Log] Checking if chkbx_CallWait is enabled 
+2017-03-01 13:23:38,692 INFO  [Log] chkbx_CallWait is Enabled 
+2017-03-01 13:23:38,780 INFO  [Log] Checking if chkbx_Voicemail is visible 
+2017-03-01 13:23:38,875 INFO  [Log] chkbx_Voicemail is Visible 
+2017-03-01 13:23:38,943 INFO  [Log] Checking if chkbx_Voicemail is enabled 
+2017-03-01 13:23:38,984 INFO  [Log] chkbx_Voicemail is Enabled 
+2017-03-01 13:23:39,093 INFO  [Log] Checking if chkbx_UsageAlert is visible 
+2017-03-01 13:23:39,175 INFO  [Log] chkbx_UsageAlert is Visible 
+2017-03-01 13:23:39,232 INFO  [Log] Checking if chkbx_UsageAlert is enabled 
+2017-03-01 13:23:39,280 INFO  [Log] chkbx_UsageAlert is Enabled 
+2017-03-01 13:23:39,341 INFO  [Log] Checking if chkbx_IntlRoam is visible 
+2017-03-01 13:23:39,416 INFO  [Log] chkbx_IntlRoam is Visible 
+2017-03-01 13:23:39,482 INFO  [Log] Checking if chkbx_IntlRoam is enabled 
+2017-03-01 13:23:39,523 INFO  [Log] chkbx_IntlRoam is Enabled 
+2017-03-01 13:23:39,587 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:23:49,661 INFO  [Log] Clicking on Webelement btn_EditCallFwd 
+2017-03-01 13:23:49,994 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:24:00,073 INFO  [Log] Pressing ESC 
+2017-03-01 13:24:00,202 INFO  [Log] Clicking on Webelement rdo_AllowCallFwd 
+2017-03-01 13:24:00,581 INFO  [Log] Checking if txtbx_FwdCall is visible 
+2017-03-01 13:24:00,662 INFO  [Log] txtbx_FwdCall is Visible 
+2017-03-01 13:24:00,726 INFO  [Log] Entering the text in txtbx_FwdCall 
+2017-03-01 13:24:01,050 INFO  [Log] Clicking on Webelement btn_SaveFwdCall 
+2017-03-01 13:24:01,401 INFO  [Log] Checking if lbl_ErrFwdCall is visible 
+2017-03-01 13:24:05,707 INFO  [Log] lbl_ErrFwdCall is Visible 
+2017-03-01 13:24:05,779 INFO  [Log] Entering the text in txtbx_FwdCall 
+2017-03-01 13:24:06,193 INFO  [Log] Clicking on Webelement btn_SaveFwdCall 
+2017-03-01 13:24:06,562 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:24:16,634 INFO  [Log] Pressing ESC 
+2017-03-01 13:24:16,728 INFO  [Log] Checking if 0412345678 is displayed in lbl_FwdCall 
+2017-03-01 13:24:16,929 INFO  [Log] 0412345678 is displayed in lbl_FwdCall 
+2017-03-01 13:24:17,000 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:24:27,119 INFO  [Log] Clicking on Webelement btn_EditSMSLimit 
+2017-03-01 13:24:27,434 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:24:37,504 INFO  [Log] Checking if cbbx_SMSLimit is visible 
+2017-03-01 13:24:37,580 INFO  [Log] cbbx_SMSLimit is Visible 
+2017-03-01 13:24:37,643 INFO  [Log] Selecting 70 on Webelement cbbx_SMSLimit 
+2017-03-01 13:24:37,812 INFO  [Log] Clicking on Webelement btn_SaveSMSLimit 
+2017-03-01 13:24:38,114 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:24:48,187 INFO  [Log] Checking if 70 is displayed in lbl_SMSLimit 
+2017-03-01 13:24:48,270 INFO  [Log] 70 is displayed in lbl_SMSLimit 
+2017-03-01 13:24:48,334 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:24:58,418 INFO  [Log] Clicking on Webelement btn_EditAllowAuto 
+2017-03-01 13:24:58,729 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:25:08,803 INFO  [Log] Clicking on Webelement rdo_AllowAuto 
+2017-03-01 13:25:09,041 INFO  [Log] Checking if cbbx_BalanceDrop is visible 
+2017-03-01 13:25:09,122 INFO  [Log] cbbx_BalanceDrop is Visible 
+2017-03-01 13:25:09,181 INFO  [Log] Checking if cbbx_Recharge is visible 
+2017-03-01 13:25:09,256 INFO  [Log] cbbx_Recharge is Visible 
+2017-03-01 13:25:09,317 INFO  [Log] Selecting 10 on Webelement cbbx_BalanceDrop 
+2017-03-01 13:25:09,481 INFO  [Log] Selecting 20 on Webelement cbbx_Recharge 
+2017-03-01 13:25:09,645 INFO  [Log] Clicking on Webelement btn_SaveAllowAuto 
+2017-03-01 13:25:09,936 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:25:20,012 INFO  [Log] Checking if 10 is displayed in lbl_AllowAuto 
+2017-03-01 13:25:20,095 INFO  [Log] 10 is displayed in lbl_AllowAuto 
+2017-03-01 13:25:20,166 INFO  [Log] Checking if 20 is displayed in lbl_AllowAuto 
+2017-03-01 13:25:20,213 INFO  [Log] 20 is displayed in lbl_AllowAuto 
+2017-03-01 13:25:20,276 INFO  [Log] Wait for 10 seconds 
+2017-03-01 13:25:30,358 INFO  [Log] Clicking on Webelement lnk_Logout 
+2017-03-01 13:25:35,525 INFO  [Log] Closing the browser 
+2017-03-01 13:25:38,291 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-01 13:25:38,291 INFO  [Log] X 
+2017-03-01 13:25:38,291 INFO  [Log] X 
+2017-03-01 13:25:38,291 INFO  [Log] X 
+2017-03-01 13:25:38,291 INFO  [Log] X 
