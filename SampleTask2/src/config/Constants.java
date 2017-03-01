@@ -5,7 +5,7 @@ public class Constants {
 	public static final String URL = "https://accounts.amaysim.com.au/identity/login/";
 	public static final String Path_TestData = "D:\\rc\\Selenium Projects\\SampleTask2\\src\\dataEngine\\DataEngine.xlsx";
 	public static final String Path_OR = "D:\\rc\\Selenium Projects\\SampleTask2\\src\\config\\OR.txt";
-	public static final String Exepath = "D:\\rc\\Selenium Projects\\SampleTask2\\chromedriver.exe";
+	public static final String Exepath = "chromedriver.exe";
 	public static final String File_TestData = "DataEngine.xlsx";
  
 	
