@@ -1,0 +1,44 @@
+# Login Page Object
+txtbx_UserName=.//input[@name='mobile_number']
+txtbx_Password=.//input[@name='password']
+btn_LogIn=.//input[@name='commit']
+
+# Dashboard Page Object
+lnk_MySetting=.//a[@href='/my-account/my-amaysim/settings']
+lnk_Logout=.//*[@id="menu_list"]/li[14]/a/span[1]
+
+# My Setttings Page Object
+btn_Save=.//div[not(contains(@style,'display:none'))]//input[@value='Save']
+btn_Cancel=.//a[contains(text(),'Cancel')]
+btn_EditNickname=.//a[@id='edit_settings_phone_label']
+txtbx_Nickname=.//input[@id='my_amaysim2_setting_phone_label']
+lbl_Nickname=.//*[@id='settings_sim_nickname']//*[contains(@class,'setting-option-details-text')]
+lbl_ErrNickname=.//*[@id='edit_settings_sim_nickname']/div[2]/div/small
+btn_EditRPin=.//a[@id='edit_settings_recharge_pin']
+txtbx_RPin=.//input[@id='my_amaysim2_setting_topup_pw']
+lbl_RPin=.//*[@id='settings_recharge_pin']//*[contains(@class,'setting-option-details-text')]
+lbl_ErrRPin=.//*[@id="edit_settings_topup_password"]/div[2]/div/small
+chkbx_CallerID=.//label[@for='my_amaysim2_setting_caller_id_out']
+chkbx_CallWait=.//label[@for='my_amaysim2_setting_caller_waiting']
+chkbx_Voicemail=.//label[@for='my_amaysim2_setting_voice_mail']
+chkbx_UsageAlert=.//label[@for='my_amaysim2_setting_usage_alert']
+chkbx_IntlRoam=.//label[@for='my_amaysim2_setting_intl_roaming']
+btn_EditCallFwd=.//a[@id='edit_settings_call_forwarding']
+rdo_AllowCallFwd=.//input[@id='my_amaysim2_setting_call_divert_
+txtbx_FwdCall=.//input[@id='my_amaysim2_setting_call_divert_number']
+btn_SaveFwdCall=.//*[@id='update_call_forwarding_form']/div[4]/div/input
+lbl_FwdCall=.//*[@id='settings_call_forwarding']//*[contains(@class,'setting-option-details-text')]
+lbl_ErrFwdCall=.//*[@id="settings_divert_number"]/span
+btn_EditSMSLimit=.//a[@id='edit_settings_premium_sms_limit']
+cbbx_SMSLimit=//select[@id="my_amaysim2_setting_psms_spend"]
+btn_SaveSMSLimit=.//*[@id='update_psms_form']/div[3]/div/input
+lbl_SMSLimit=.//*[@id='settings_premium_sms_limit']//*[contains(@class,'setting-option-value-text')]
+btn_EditAllowAuto=.//a[@id='edit_settings_auto_recharge']
+rdo_AllowAuto=.//input[@id='my_amaysim2_setting_auto_topup_
+cbbx_BalanceDrop=//select[@id='my_amaysim2_setting_auto_topup_min_balance']
+cbbx_Recharge=//select[@id='my_amaysim2_setting_auto_topup_amount']
+btn_SaveAllowAuto=.//*[@id='update_auto_topup_form']/div[4]/div/input
+lbl_AllowAuto=.//*[@id='settings_auto_recharge']//*[contains(@class,'setting-option-details-text')]
+
+
+
