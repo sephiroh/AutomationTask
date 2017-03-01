@@ -37,7 +37,7 @@ Upon setting up of the necessary requirements, we can now proceed on running the
 3. Setup desired Test Data by navigating to SampleTask2/src/dataEngine/DataEngine.xlsx
 4. Run the Execution Engine (SampleTask2/src/executionEngine/DriverScript.java)
 5. Wait until the automation run is completed.
-6. Verify results through Sampletask2/logfile.log and/or DataEngine.xlss
+6. Verify results through Sampletask2/logfile.log and/or DataEngine.xlsx
 
 ## Authors
 
